@@ -1,1 +1,1 @@
-# BC32E_JS_Buoi_6
+# BC32E_Nguyễn Hoàng Lộc (Bài tập JS buổi 6)
